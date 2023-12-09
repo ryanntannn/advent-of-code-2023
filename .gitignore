@@ -1,0 +1,18 @@
+# Python
+
+_.pyc
+**pycache**/
+venv/
+_.env
+
+# IDEs and Editors
+
+.idea/
+.vscode/
+_.sublime-project
+_.sublime-workspace
+
+# Dependency directories
+
+env/
+lib/
